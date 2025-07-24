@@ -31,7 +31,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: project
+    id: talks
     content:
       title: Recent Posts
       subtitle: ''
