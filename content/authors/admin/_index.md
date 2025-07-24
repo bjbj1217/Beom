@@ -85,17 +85,32 @@ skills:
       - name: Python
         description: ''
         icon: code-bracket
-      - Pytorch
+      - name: Pytorch
         description: 'Model training & deployment'
-      - Sklearn
-      - Trimesh
+      - name: Sklearn
+      - name: Trimesh
         description: '3D mesh manipulation'
-      - VTK
-      - AWS
+      - name: VTK
+      - name: AWS
         description: 'Cloud services for deployment and model monitoring'
       - name: SQL
         description: ''
         icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Guitar
+        description: ''
+        icon: guitar
+
+languages:
+  - name: English
+    percent: 100 
+  - name: Korean
+    percent: 100
+  - name: Mandarin
+    percent: 30
 ---
 
 ## About Me
