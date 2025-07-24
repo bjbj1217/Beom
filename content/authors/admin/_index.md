@@ -89,18 +89,13 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         icon: code-bracket
       - name: Pytorch
-        description: 'Model training & deployment'
       - name: Sklearn
       - name: Trimesh
-        description: '3D mesh manipulation'
       - name: VTK
       - name: AWS
-        description: 'Cloud services for deployment and model monitoring'
       - name: SQL
-        description: ''
         icon: circle-stack
 ---
 
