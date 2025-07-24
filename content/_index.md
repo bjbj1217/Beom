@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-10-24
 type: landing
 
 design:
@@ -34,7 +34,6 @@ sections:
       columns: '1'
 
   - block: collection
-    id: news
     content:
       title: Recent Posts
       subtitle: ''
