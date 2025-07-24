@@ -69,13 +69,19 @@ work:
   - position: Principal Data Scientist
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: ''
-    date_start: 2022-05-23
+    company_logo: dasi
+    date_start: 2024-09-22
     date_end: ''
     summary: |2-
       Responsibilities include:
       - Architecting robust automatic pipelines for reconstructing patient-specific anatomical structures using medical images  
       - Build and maintain machine learning models for various tasks including landmark detection, 3D image segmentation, point-cloud clustering, etc.
+  - position: Data Science Engineer
+    company_name: DASI Simulations
+    company_url: 'https://dasisim.ai'
+    company_logo: dasi
+    date_start: 2022-05-23
+    date_end: 2024-09-22
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
