@@ -69,7 +69,7 @@ work:
   - position: Principal Data Scientist
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: dasi
+    company_logo: ''
     date_start: 2024-09-22
     date_end: ''
     summary: |2-
@@ -79,7 +79,7 @@ work:
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: dasi
+    company_logo: ''
     date_start: 2022-05-23
     date_end: 2024-09-22
 
