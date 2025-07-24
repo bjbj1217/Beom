@@ -1,10 +1,10 @@
 ---
 title: 3D Landmark Detection
-date: 2023-10-26
+date: 2022-10-26
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Landmark Detection
+  - Deep Learning
+  - Neural Network
 ---
 
 Landmark Detection ...
