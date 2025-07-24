@@ -103,14 +103,6 @@ skills:
       - name: Guitar
         description: ''
         icon: guitar
-
-languages:
-  - name: English
-    percent: 100 
-  - name: Korean
-    percent: 100
-  - name: Mandarin
-    percent: 30
 ---
 
 ## About Me
