@@ -48,9 +48,9 @@ education:
     date_start: 2020-08-12
     date_end: 2022-05-15
     summary: |
-      Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients.
-  - Supervised by Dr. Lakshmi Prasad Dasi. Moderated Poster Presentation at America College of Cardiology.
-  - Lab: Cardiovascular Fluid Mechanics Laboratory
+      Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients. 
+      Supervised by Dr. Lakshmi Prasad Dasi. Moderated Poster Presentation at America College of Cardiology.
+      Lab: Cardiovascular Fluid Mechanics Laboratory
   - area: BSc Mechanical Engineering
     institution: Georgia Institute of Technology
     date_start: 2016-08-15
