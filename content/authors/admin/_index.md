@@ -50,9 +50,7 @@ education:
     summary: |
       Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients.
   - Supervised by Dr. Lakshmi Prasad Dasi. Moderated Poster Presentation at America College of Cardiology.
-  - Lab: Cardiovascular Fluid Mechanics Laboratory 
-    - button:
-        url: 'https://sites.gatech.edu/cfm/'
+  - Lab: Cardiovascular Fluid Mechanics Laboratory
   - area: BSc Mechanical Engineering
     institution: Georgia Institute of Technology
     date_start: 2016-08-15
@@ -98,7 +96,7 @@ skills:
       - name: SQL
         description: ''
         icon: circle-stack
-
+---
 
 ## About Me
 Beom Jun Lee is a data scientist at DASI Simulations. His research interests revolves around computer vision especially in the medical image domain.
