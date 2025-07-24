@@ -27,7 +27,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |- 
-        I am currently a data scientist at DASI Simulations, a medical company delivering individualized computational predictive modeling for patients undergoing structural heart procedures such as Transcatheter Aortic Valve Replacement (TAVR). <br> I discuss projects that I have been involved in and about machine learning/computer vision techniques especially in the medical domain.
+        I am currently a data scientist at DASI Simulations, a medical company delivering individualized computational predictive modeling for patients undergoing structural heart procedures such as Transcatheter Aortic Valve Replacement (TAVR).
+
+        I discuss projects that I have been involved in and about machine learning/computer vision techniques especially in the medical domain. 
+        
     design:
       columns: '1'
   - block: collection
