@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-10-24
+date: 2025-07-24
 type: landing
 
 design:
@@ -27,10 +27,22 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         I am a data scientist at DASI Simulations. I showcase and blog about machine learning and computer vision techniques especially in the medical domain.
+        I am a data scientist at DASI Simulations. I showcase and blog about machine learning and computer vision techniques especially in the medical domain.
     design:
       columns: '1'
   - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    id: news
     content:
       title: Recent Posts
       subtitle: ''
@@ -38,7 +50,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: project
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         author: ""
