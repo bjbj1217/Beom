@@ -98,25 +98,7 @@ skills:
       - name: SQL
         description: ''
         icon: circle-stack
-    
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Guitar
-        description: ''
-        icon: guitar
 
-
-languages:
-  - name: English
-    percent: 100 
-  - name: Korean
-    percent: 100
-  - name: Chinese
-    percent: 30
----
 
 ## About Me
-
 Beom Jun Lee is a data scientist at DASI Simulations. His research interests revolves around computer vision especially in the medical image domain.
