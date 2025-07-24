@@ -99,5 +99,3 @@ skills:
         icon: circle-stack
 ---
 
-## About Me
-Beom Jun Lee is a data scientist at DASI Simulations. His research interests revolves around computer vision especially in the medical image domain.
