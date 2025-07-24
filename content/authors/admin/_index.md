@@ -38,8 +38,8 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computer Vision
-    - Image Segmentation
-    - 3D Registration
+  - Image Segmentation
+  - 3D Registration
   - Medical Image Analysis
 
 education:
@@ -96,13 +96,6 @@ skills:
       - name: SQL
         description: ''
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Guitar
-        description: ''
-        icon: guitar
 ---
 
 ## About Me
