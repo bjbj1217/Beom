@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '10rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
@@ -17,9 +17,9 @@ sections:
         folders:
           - project
     design:
-      view: compact
+      view: article-grid
       fill_image: false
-      columns: 10
+      columns: 2
       spacing: '5rem'
   
 ---
