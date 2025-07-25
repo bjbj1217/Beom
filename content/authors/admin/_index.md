@@ -49,7 +49,7 @@ education:
     date_start: 2020-08-12
     date_end: 2022-05-15
     summary: |
-      Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients<br>
+      Thesis: *Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
       **Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)**<br>
       *Moderated Poster Presentation at America College of Cardiology*
   - area: BSc Mechanical Engineering
@@ -69,14 +69,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Architect automatic pipelines for reconstructing patient-specific anatomical structures from CT images 
-        - Impact: replaced the company's reliance on third-party software, resulting in an estimated $470,000/year savings in licensing fees, reduced processing time per case by 30%, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
-      - Build and maintain machine learning models for various tasks including landmark detection, 3D image segmentation, point-cloud clustering, etc.
-      - Develop applications that enable verification and validation of outputs of automatic pipelines 
+      - **Architect** automatic pipelines for reconstructing patient-specific anatomical structures from CT images 
+        - *Impact*: replaced the company's reliance on third-party software, resulting in an estimated **$470,000/year** savings in licensing fees, reduced processing time per case by **30%**, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
+      - **Build and maintain** machine learning models for various tasks including *landmark detection, 3D image segmentation, point-cloud clustering*, etc.
+      - **Develop** applications that enable verification and validation of outputs of automatic pipelines 
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: ''
+    company_logo: dasi
     date_start: 2022-05-23
     date_end: 2024-09-22
 
