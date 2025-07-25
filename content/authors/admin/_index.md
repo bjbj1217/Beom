@@ -109,9 +109,9 @@ skills:
         icon: circle-stack
   - name: Hobbies
       items:
-        - Guitar
-        - Piano
-        - Coffee 
+        - name: Guitar
+        - name: Piano
+        - name: Coffee 
 ---
 
 ## About Me
