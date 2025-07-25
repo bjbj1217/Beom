@@ -49,7 +49,7 @@ education:
     date_start: 2020-08-12
     date_end: 2022-05-15
     summary: |
-      *Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
+      Thesis: *Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
       Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)<br>
       **Moderated Poster Presentation at America College of Cardiology**  
       Courses:
@@ -111,7 +111,9 @@ skills:
     items:
     - name: Guitar
     - name: Piano
-    - name: Coffee 
+    - name: Coffee
+    - name: ''
+    - name: ''
 ---
 
 ## About Me
