@@ -58,12 +58,6 @@ education:
     summary: |
       Minors: Biomedical Engineering
       Academic Honors: Highest Honors
-      Courses included:
-      - Computer Vision
-      - Biofluid Mechanics
-      - Biosystems Analysis
-      - Machine Learning
-      - Statistics
 
 work:
   - position: Principal Data Scientist
@@ -74,8 +68,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Architecting robust automatic pipelines for reconstructing patient-specific anatomical structures using medical images  
+      - Architect automatic pipelines for reconstructing patient-specific anatomical structures from CT images 
+        - Impact: replaced the company's reliance on third-party softwares, resulting in an estimated $470,000/year savings in licensing fees, reduced processing time per case by 30%, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
       - Build and maintain machine learning models for various tasks including landmark detection, 3D image segmentation, point-cloud clustering, etc.
+      - Develop applications that enable verification and validation of outputs of automatic pipelines 
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
