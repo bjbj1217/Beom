@@ -22,5 +22,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 10
+      spacing:
+        padding: [0, 0, 0, 0]
   
 ---
