@@ -49,9 +49,9 @@ education:
     date_start: 2020-08-12
     date_end: 2022-05-15
     summary: |
-      Thesis: *Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
-      **Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)**<br>
-      *Moderated Poster Presentation at America College of Cardiology*\  
+      *Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
+      Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)<br>
+      **Moderated Poster Presentation at America College of Cardiology**  
       Courses:
       - Machine Learning
       - Systems Physiology
@@ -64,7 +64,7 @@ education:
     date_end: 2020-05-12
     summary: |
       Minors: Biomedical Engineering\
-      Academic Honors: Highest Honors\
+      Academic Honors: **Highest Honors**\
       Courses:
       - Heat Transfer
       - Circuits and Electronics
