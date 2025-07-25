@@ -16,13 +16,10 @@ sections:
       filters:
         folders:
           - project
-      spacing:
-        padding: [0, '40px', 0, '40px']
     design:
-      view: card
+      view: compact
       fill_image: false
       columns: 10
-      spacing:
-        padding: [0, 0, 0, 0]
+      spacing: '5rem'
   
 ---

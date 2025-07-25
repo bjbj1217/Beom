@@ -6,6 +6,8 @@ tags:
   - Image Segmentation
   - 3D Point cloud
   - Meshing
+spacing:
+  padding: [0, '40px', 0, '40px']
 ---
 
 **Problem:**\
