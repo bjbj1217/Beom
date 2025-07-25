@@ -100,4 +100,5 @@ skills:
 ---
 
 ## About Me
-I’m a data scientist and engineer working at the intersection of ML, cloud infrastructure, and medical imaging. I’ve built image segmentation and landmark detection pipelines that span the full ML lifecycle — from data ingestion and preprocessing to model training, deployment, and monitoring - deployed across both AWS and on-premise environments. My work emphasizes human-in-the-loop systems, especially critical in the medical domain where model outputs must be rigorously verified and interpretable. I’m passionate about bridging the gap between robust technical engineering and safe, usable clinical software.
+I’m a data scientist and engineer working at the intersection of ML, cloud infrastructure, and medical imaging. I’ve built **image segmentation and landmark detection pipelines that span the full ML lifecycle** — from data ingestion and preprocessing to model training, deployment, and monitoring - deployed across both AWS and on-premise environments. 
+My work emphasizes *human-in-the-loop* systems, especially critical in the medical domain where model outputs must be rigorously verified and interpretable. I’m passionate about bridging the gap between robust technical engineering and safe, usable clinical software.
