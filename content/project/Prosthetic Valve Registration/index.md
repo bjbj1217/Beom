@@ -7,20 +7,20 @@ tags:
   - Meshing
 ---
 
-**Problem:**\
-Develop a registration algorithm to extract the deformed states of prosthetic valves inside the native aortic valves of TAVR patients using cardiac Computed Tomography (CT) scans
+# **Problem:**\
+# Develop a registration algorithm to extract the deformed states of prosthetic valves inside the native aortic valves of TAVR patients using cardiac Computed Tomography (CT) scans
 <!--more-->
 
-**Background**\
-..
+# **Background**\
+# ..
 
-**Methods**\
-..
+# **Methods**\
+# ..
 
-**Result**\
-..
+# **Result**\
+# ..
 
-**Discussion**\
-..
+# **Discussion**\
+# ..
 
 
