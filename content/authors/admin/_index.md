@@ -52,11 +52,11 @@ education:
       Thesis: *Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
       **Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)**<br>
       *Moderated Poster Presentation at America College of Cardiology*
-    Courses included:
-    - Machine Learning
-    - Systems Physiology
-    - Computer Vision
-    - Medical Image Processing
+      Courses:
+      - Machine Learning
+      - Systems Physiology
+      - Computer Vision
+      - Medical Image Processing
     
   - area: BSc Mechanical Engineering
     institution: Georgia Institute of Technology
@@ -65,7 +65,7 @@ education:
     summary: |
       Minors: Biomedical Engineering\
       Academic Honors: Highest Honors
-    Courses included:
+    Courses:
     - Heat Transfer
     - Circuits and Electronics
     - Experimental Methodology
