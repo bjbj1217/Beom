@@ -69,10 +69,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - **Architect** automatic pipelines for reconstructing patient-specific anatomical structures from CT images, replacing the company's reliance on third-party software, resulting in an estimated **$400,000/year** savings in licensing fees, reducing processing time per case by **30%**, and enabling control over data privacy and regulatory compliance in a medical imaging workflow.
-      - **Build and maintain** machine learning models for various tasks including *landmark detection, 3D image segmentation, point-cloud clustering*, etc.
-      - **Develop** applications that enable verification and validation of outputs of automatic pipelines 
-      - **Developed** an internal automation tool for clinical measurement extraction from CT scans, and led end-to-end validation, verification, and documentation to support successful **FDA 510(k) clearance** in collaboration with cross-functional teams.
+      - **Architected** automatic pipelines for reconstructing patient-specific anatomical structures from CT images, replacing the company's reliance on third-party software, resulting in an estimated **$400,000/year** savings in licensing fees, reducing processing time per case by **30%**, and enabling control over data privacy and regulatory compliance in a medical imaging workflow.
+      - **Built and maintained** machine learning models for various tasks including *landmark detection, 3D image segmentation, point-cloud clustering*, etc.
+      - **Led the development** of a software for automatic clinical measurement extraction from CT scans, navigating the full lifecycle from design to a successful **FDA 510(k) clearance** in collaboration with cross-functional teams.
+      - **Developed** an internal application using *PyQt5 and VTK* to visualize/verify AI model outputs (3D segmentations and landmarks) and make precise manual edits based on CT image.  
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
