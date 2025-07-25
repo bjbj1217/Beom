@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '6rem'
+  spacing: '10rem'
 
 # Page sections
 sections:
@@ -16,8 +16,11 @@ sections:
       filters:
         folders:
           - project
+      spacing:
+        padding: [0, '20px', 0, '20px']
     design:
       view: article-grid
       fill_image: false
-      columns: 20
+      columns: 10
+  
 ---
