@@ -108,10 +108,12 @@ skills:
       - name: SQL
         icon: circle-stack
   - name: Hobbies
-      items:
-        - name: Guitar
-        - name: Piano
-        - name: Coffee 
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+    - name: Guitar
+    - name: Piano
+    - name: Coffee 
 ---
 
 ## About Me
