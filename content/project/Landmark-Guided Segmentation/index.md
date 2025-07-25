@@ -11,11 +11,7 @@ tags:
 **Problem**\
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 
-\
-\
-\
-\
-\
+<!--more-->
 
 **Background**\
 Typically presenting as a tri-leaflet structure, the aortic valve is a unidirectional valve located in the aortic root, the section of the aorta that attaches to the heart.
@@ -32,4 +28,4 @@ A pipeline involving a landmark detection module and a point cloud registration 
 **Discussion**\
 This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex anatomy of the aortic valve. 
 
-<!--more-->
+
