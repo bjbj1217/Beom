@@ -21,14 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
-        image:
-          filename: background.jpg
-          filters:
-            brightness: 0.8
-          size: cover
-          position: center
-          parallax: false
+        color: gray
   - block: markdown
     content:
       title: '📚 My Research'
