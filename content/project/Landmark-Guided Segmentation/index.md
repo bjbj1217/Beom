@@ -3,7 +3,7 @@ title: Landmark-Guided Segmentation
 date: 2022-10-26
 tags:
   - Landmark Detection
-  - Image Segmentation
+  - Segmentation
   - 3D Point cloud
   - Meshing
 ---
@@ -20,6 +20,14 @@ Using commercial segmentation applications, manual segmentation of the aortic le
 **Methods**\
 Given the complex structure of the aortic leaflets, the segmentation algorithm must be designed to account for the vast phenotypic heterogeneity that exists in
 the patient population. 
+
+```markmap {height="200px"}
+- Aortic Components
+  - Aortic Leaflets
+  - Calcium Nodules
+  - Aortic Root Wall
+```
+
 
 **Result**\
 A pipeline involving a landmark detection module and a point cloud registration module is developed. 

@@ -112,8 +112,8 @@ skills:
     - name: Guitar
     - name: Piano
     - name: Coffee
-    - name:  
-    - name:  
+    - name: \ 
+    - name: \
 ---
 
 ## About Me
