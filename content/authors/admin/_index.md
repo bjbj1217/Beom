@@ -52,7 +52,7 @@ education:
       Thesis: *Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients*<br>
       **Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)**<br>
       *Moderated Poster Presentation at America College of Cardiology*
-    Courses:
+    Courses included:
     - Machine Learning
     - Systems Physiology
     - Computer Vision
@@ -65,7 +65,7 @@ education:
     summary: |
       Minors: Biomedical Engineering\
       Academic Honors: Highest Honors
-    Courses:
+    Courses included:
     - Heat Transfer
     - Circuits and Electronics
     - Experimental Methodology
@@ -102,8 +102,6 @@ skills:
         icon: code-bracket
       - name: Pytorch
       - name: Sklearn
-      - name: Trimesh
-      - name: VTK
       - name: AWS
       - name: SQL
         icon: circle-stack
