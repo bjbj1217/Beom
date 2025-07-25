@@ -39,8 +39,9 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Image Segmentation
-  - 3D Registration
+  - 3D Image/Point Cloud Registration
   - Medical Image Analysis
+  - Human-in-a-loop
 
 education:
   - area: MS Bioengineering
