@@ -36,10 +36,10 @@ profiles:
     url: https://www.linkedin.com/in/beomjunlee/
 
 interests:
-  - Artificial Intelligence
+  - Machine Learning
   - Computer Vision
   - Image Segmentation
-  - 3D Image/Point Cloud Registration
+  - 3D Image/Mesh Registration
   - Medical Image Analysis
   - Human-in-a-loop
 
@@ -67,7 +67,8 @@ education:
       Academic Honors: **Highest Honors**\
       Courses:
       - Heat Transfer
-      - Circuits and Electronics
+      - Thermodynamics
+      - Fluid Mechanics
       - Experimental Methodology
       - Biosystems Analysis
       - Biofluid Mechanics
