@@ -11,10 +11,14 @@ Develop an application that enables users to visually verify the accuracy of mul
 <!--more-->
 
 **Background**\
+..
 
 **Methods**\
+..
 
 **Result**\
+..
 
 **Discussion**\
+..
 

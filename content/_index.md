@@ -39,7 +39,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: project
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 2
       # Filter on criteria
       filters:
         author: ""
@@ -52,7 +52,7 @@ sections:
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      order: asc
     design:
       # Choose a layout view
       view: date-title-summary
