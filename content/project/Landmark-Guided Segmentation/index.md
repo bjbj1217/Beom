@@ -7,7 +7,7 @@ tags:
   - 3D Point cloud
   - Meshing
 spacing:
-  padding: [0, '40px', 0, '40px']
+  padding: [0, 50, 50, 0]
 ---
 
 **Problem:**\
