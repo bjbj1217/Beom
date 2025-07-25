@@ -56,7 +56,7 @@ education:
     date_start: 2016-08-15
     date_end: 2020-05-12
     summary: |
-      Minors: Biomedical Engineering \
+      Minors: Biomedical Engineering
       Academic Honors: Highest Honors
 
 work:
