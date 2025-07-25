@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: showcase
+      view: card
       fill_image: false
       columns: 2
 ---
