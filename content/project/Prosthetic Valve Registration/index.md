@@ -1,5 +1,5 @@
 ---
-title: Landmark-Guided Segmentation
+title: Prosthetic Valve Registration
 date: 2022-10-26
 tags:
   - Registration
@@ -12,9 +12,7 @@ Develop a registration algorithm to extract the deformed states of prosthetic va
 
 **Background**\
 
-
 **Methods**\
-
 
 **Result**\
 

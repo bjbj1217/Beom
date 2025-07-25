@@ -24,7 +24,6 @@ the patient population.
 A pipeline involving a landmark detection module and a point cloud registration module is developed. 
 
 **Discussion**\
-This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex 
-anatomy of the aortic valve. 
+This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex anatomy of the aortic valve. 
 
 <!--more-->
