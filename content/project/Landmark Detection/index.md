@@ -7,3 +7,20 @@ tags:
   - Neural Network
 ---
 
+**Problem:**\
+Train and validate a detection model to regress the coordinates of fifteen aortic landmarks from cardiac Computed Tomography (CT) scans
+<!--more-->
+
+**Background**\
+..
+
+**Methods**\
+..
+
+**Result**\
+..
+
+**Discussion**\
+..
+
+
