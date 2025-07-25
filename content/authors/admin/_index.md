@@ -49,14 +49,14 @@ education:
     date_end: 2022-05-15
     summary: |
       Thesis: Artificial Intelligence-based Patient-Specific Reconstruction of Aortic Root in Transcatheter Aortic Valve Replacement Patients\
-      Supervised by Dr. Lakshmi Prasad Dasi. Moderated Poster Presentation at America College of Cardiology\
-      Lab: Cardiovascular Fluid Mechanics Laboratory
+      **Supervised by Dr. Lakshmi Prasad Dasi (Cardiovascular Fluid Mechanics Laboratory)** \
+      *Moderated Poster Presentation at America College of Cardiology*
   - area: BSc Mechanical Engineering
     institution: Georgia Institute of Technology
     date_start: 2016-08-15
     date_end: 2020-05-12
     summary: |
-      Minors: Biomedical Engineering
+      Minors: Biomedical Engineering \
       Academic Honors: Highest Honors
 
 work:
@@ -69,7 +69,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Architect automatic pipelines for reconstructing patient-specific anatomical structures from CT images 
-        - Impact: replaced the company's reliance on third-party softwares, resulting in an estimated $470,000/year savings in licensing fees, reduced processing time per case by 30%, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
+        - Impact: replaced the company's reliance on third-party software, resulting in an estimated $470,000/year savings in licensing fees, reduced processing time per case by 30%, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
       - Build and maintain machine learning models for various tasks including landmark detection, 3D image segmentation, point-cloud clustering, etc.
       - Develop applications that enable verification and validation of outputs of automatic pipelines 
   - position: Data Science Engineer
