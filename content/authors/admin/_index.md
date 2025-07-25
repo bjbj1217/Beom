@@ -70,7 +70,7 @@ work:
     summary: |2-
       Responsibilities include:
       - **Architect** automatic pipelines for reconstructing patient-specific anatomical structures from CT images 
-        - *Impact*: replaced the company's reliance on third-party software, resulting in an estimated **$470,000/year** savings in licensing fees, reduced processing time per case by **30%**, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
+        - Impact: replaced the company's reliance on third-party software, resulting in an estimated **$470,000/year** savings in licensing fees, reduced processing time per case by **30%**, and enabled control over data privacy and regulatory compliance in a medical imaging workflow.
       - **Build and maintain** machine learning models for various tasks including *landmark detection, 3D image segmentation, point-cloud clustering*, etc.
       - **Develop** applications that enable verification and validation of outputs of automatic pipelines 
   - position: Data Science Engineer
@@ -97,5 +97,5 @@ skills:
 ---
 
 ## About Me
-I’m a data scientist and engineer working at the intersection of ML, cloud infrastructure, and medical imaging. I’ve built **image segmentation and landmark detection pipelines that span the full ML lifecycle** — from data ingestion and preprocessing to model training, deployment, and monitoring — deployed across both AWS and on-premise environments. <br>\
+I’m a data scientist working at the intersection of ML, cloud infrastructure, and medical imaging. I’ve built **image segmentation and landmark detection pipelines that span the full ML lifecycle** — from data curation, ingestion, and preprocessing to model training, deployment, and monitoring — deployed across both AWS and on-premise environments. <br>\
 My work emphasizes *human-in-the-loop* systems, especially critical in the medical domain where model outputs must be rigorously verified and interpretable. I’m passionate about bridging the gap between robust technical engineering and safe, usable clinical software.

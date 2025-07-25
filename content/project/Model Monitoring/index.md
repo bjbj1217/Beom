@@ -7,6 +7,16 @@ tags:
   - Meshing
 ---
 
-Landmark Detection ...
+**Problem**\
+Design and develop an automated pipeline for continuous AI model monitoring and training by tracking the models' performance and the system's input feature distribution 
+
+**Background**\
+
+**Methods**\
+
+**Result**\
+
+**Discussion**\
+
 
 <!--more-->
