@@ -17,7 +17,7 @@ sections:
         folders:
           - project
       spacing:
-        padding: [0, '20px', 0, '20px']
+        padding: [0, 0, 0, 0]
     design:
       view: article-grid
       fill_image: false
