@@ -17,9 +17,9 @@ sections:
         folders:
           - project
       spacing:
-        padding: [0, 40, 0, 40]
+        padding: [0, '40px', 0, '40px']
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 10
       spacing:
