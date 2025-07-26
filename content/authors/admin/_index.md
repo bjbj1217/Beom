@@ -1,4 +1,9 @@
 ---
+
+design:
+  spacing:
+    padding: [0, 5, 0, 5]
+
 # Display name
 title: Beom Jun Lee (Beom)
 
@@ -59,7 +64,6 @@ education:
     summary: |
       Minors: Biomedical Engineering\
       Academic Honors: **Highest Honors**\
-      Courses:
 work:
   - position: Principal Data Scientist
     company_name: DASI Simulations
