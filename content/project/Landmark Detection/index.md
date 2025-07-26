@@ -13,10 +13,11 @@ Train and validate a detection model to regress the coordinates of fifteen aorti
 
 **Background**\
 There exist several distinct architectures for landmark detection task.
-<p align="center">
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="aortic_anatomy.png" alt="Aortic Root Anatomy (Nagpal 2020) [1]" width="45%" style="margin-right: 10px;"/>
   <img src="aortic_photo.png" alt="Aortic Root Anatomy (Anderson 2000) [2]" width="45%"/>
-</p>
+</div>
 
 **Methods**\
 ..
