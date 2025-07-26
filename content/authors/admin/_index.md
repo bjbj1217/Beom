@@ -63,7 +63,7 @@ education:
     date_end: 2020-05-12
     summary: |
       Minors: Biomedical Engineering\
-      Academic Honors: **Highest Honors**\
+      Academic Honors: **Highest Honors**
 work:
   - position: Principal Data Scientist
     company_name: DASI Simulations
