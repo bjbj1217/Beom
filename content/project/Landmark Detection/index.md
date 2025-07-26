@@ -15,14 +15,12 @@ Train and validate a detection model to regress the coordinates of fifteen aorti
 There exist several distinct architectures for landmark detection task.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <figure style="text-align: center; width: 45%;">
-        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;"/>
-        <img src="aortic_photo.png" alt="Aortic Root Anatomy" width="45%"/>
-        <figcaption style="font-size: 0.9em; margin-top: 8px;">
-            Aortic Root Anatomy [1,2] <br> 
-        </figcaption>
-    </figure>
+    <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;"/>
+    <img src="aortic_photo.png" alt="Aortic Root Anatomy" width="45%"/>
 </div>
+<figcaption style="font-size: 0.9em; margin-top: 8px;">
+    Aortic Root Anatomy [1,2] <br> 
+</figcaption>
 
 **Methods**\
 ..
