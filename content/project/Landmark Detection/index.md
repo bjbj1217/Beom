@@ -19,7 +19,7 @@ There exist several distinct architectures for landmark detection task.
         <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;"/>
         <img src="aortic_photo.png" alt="Aortic Root Anatomy" width="45%"/>
     </div>
-    <div style="margin-top: 10px; font-size: 0.95em; color: #555;">
+    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         Aortic Root Anatomy <br> 
     </div>
 </div>
