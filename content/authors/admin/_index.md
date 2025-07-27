@@ -92,17 +92,23 @@ skills:
       - name: Python
         icon: code-bracket
       - name: Pytorch
+        icon: pytorch
+      - name: SQL
+        icon: sql
       - name: Sklearn
       - name: AWS
-      - name: SQL
-        icon: circle-stack
+      - name: Blender
+        icon: blender
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
     - name: Guitar
+      icon: guitar
     - name: Piano
+      icon: piano
     - name: Coffee
+      icon: coffee
     - name: \ 
     - name: \
 ---
