@@ -111,6 +111,10 @@ skills:
       icon: custom/piano
     - name: Coffee
       icon: custom/coffee
+    - name:  \
+      icon: ''
+    - name:  \
+      icon: ''
 ---
 
 ## About Me
