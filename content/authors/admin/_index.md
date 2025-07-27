@@ -80,7 +80,7 @@ work:
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: 'custom/dasi'
+    company_logo: ''
     date_start: 2022-05-23
     date_end: 2024-09-22
 
