@@ -80,7 +80,7 @@ work:
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
-    company_logo: 'dasi'
+    company_logo: custom/dasi
     date_start: 2022-05-23
     date_end: 2024-09-22
 
@@ -92,23 +92,23 @@ skills:
       - name: Python
         icon: code-bracket
       - name: Pytorch
-        icon: pytorch
+        icon: custom/pytorch
       - name: SQL
-        icon: sql
+        icon: circle-stack
       - name: Sklearn
       - name: AWS
       - name: Blender
-        icon: blender
+        icon: custom/blender
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
     - name: Guitar
-      icon: guitar
+      icon: custom/guitar
     - name: Piano
-      icon: piano
+      icon: custom/piano
     - name: Coffee
-      icon: coffee
+      icon: custom/coffee
     - name: \ 
     - name: \
 ---
