@@ -111,9 +111,9 @@ skills:
       icon: custom/piano
     - name: Coffee
       icon: custom/coffee
-    - name:  \
+    - name:  
       icon: ''
-    - name:  \
+    - name:  
       icon: ''
 ---
 
