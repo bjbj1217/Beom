@@ -96,7 +96,7 @@ skills:
       - name: SQL
         icon: circle-stack
       - name: scikit-learn
-        icon: sklearn
+        icon: cog
       - name: AWS
         icon: cloud
       - name: Blender
