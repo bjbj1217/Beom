@@ -95,8 +95,10 @@ skills:
         icon: custom/pytorch
       - name: SQL
         icon: circle-stack
-      - name: Sklearn
+      - name: scikit-learn
+        icon: sklearn
       - name: AWS
+        icon: cloud
       - name: Blender
         icon: custom/blender
   - name: Hobbies
