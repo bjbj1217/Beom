@@ -84,7 +84,7 @@ work:
     date_end: 2024-09-22
     summary: |2-
       Responsibilities include:
-      - **Developed** an internal application using **PyQt5 and VTK** to visualize/verify AI model outputs consisting of 3D segmentations and landmarks, enabling users to make precise manual edits based on CT image.
+      - **Developed** an application using **PyQt5 and VTK** to automate internal processes including visualizing AI model outputs consisting of 3D segmentations and landmarks coordinates to enable users to make precise manual edits based on CT image.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
