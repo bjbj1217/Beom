@@ -76,13 +76,15 @@ work:
       - **Architected** automatic pipelines for reconstructing patient-specific anatomical structures from CT images, replacing the company's reliance on third-party software, resulting in an estimated **$400,000/year** savings in licensing fees, reducing processing time per case by **30%**, and enabling control over data privacy and regulatory compliance in a medical imaging workflow.
       - **Led the development** of a software for automatic clinical measurement extraction from CT scans, navigating the full lifecycle from design to a successful **FDA 510(k) clearance** in collaboration with cross-functional teams.
       - **Built and maintained** machine learning models for tasks including 3D landmark detection, 3D image segmentation, to point-cloud clustering as a part of an automated pipeline.
-      - **Developed** an internal application using **PyQt5 and VTK** to visualize/verify AI model outputs consisting of 3D segmentations and landmarks, enabling users to make precise manual edits based on CT image.  
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
     company_logo: ''
     date_start: 2022-05-23
     date_end: 2024-09-22
+    summary: |2-
+      Responsibilities include:
+  - **Developed** an internal application using **PyQt5 and VTK** to visualize/verify AI model outputs consisting of 3D segmentations and landmarks, enabling users to make precise manual edits based on CT image.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
