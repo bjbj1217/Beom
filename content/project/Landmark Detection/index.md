@@ -12,17 +12,11 @@ Train and validate a detection model to regress the coordinates of fifteen aorti
 <!--more-->
 
 **Background**\
+Please refer to [Landmark-guided Segmentation]({{< relref "Landmark-Guided Segmentation/index.md" >}}) for the motivation behind this work.
+The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. 
+
 There exist several distinct architectures for landmark detection task. 
 
-<div style="text-align: center;">
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;"/>
-        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%"/>
-    </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        Aortic Root Anatomy <br> 
-    </div>
-</div>
 
 **Methods**\
 ..
