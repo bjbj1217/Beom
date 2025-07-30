@@ -43,7 +43,7 @@ its treatments.
 
 The most common treatment options for aortic stenosis include surgical aortic valve replacement (**SAVR**) and transcather aortic valve replacement (**TAVR** or **TAVI**). Transcather aortic valve replacement 
 is a non-invasive alternative procedure typically recommended for patients with higher surgical risk level. While SAVR involves an open-heart surgery for the doctor to manually excise and replace the diseased valve with
-a new prosthetic valve, TAVR delivers a Transcatheter Heart Valve (THV) through a catheter that is inserted through a blood vessel (i.e. femoral artery). The following video effectively demonstrates the TAVR procedure.
+a new prosthetic valve, TAVR delivers a TAVR-specific prosthetic valve through a catheter that is inserted through a blood vessel (i.e. femoral artery). The following video effectively demonstrates the TAVR procedure.
 
 {{< youtube HKTeAOiByLw >}}
 <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
