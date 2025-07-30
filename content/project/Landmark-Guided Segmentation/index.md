@@ -8,7 +8,7 @@ tags:
   - Meshing
 ---
 
-**Objective:**\
+<u>**Objective:**</u>
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 <!--more-->
 
@@ -91,17 +91,17 @@ A pipeline involving a landmark detection module and a point cloud registration 
 This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex anatomy of the aortic valve. 
 
 **References**\
-[1] Nagpal, Prashant & Agrawal, Mukta & Saboo, Sachin & Hedgire, Sandeep & Priya, Sarv & Steigner, Michael. (2020). Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!. Insights into Imaging. 11. 10.1186/s13244-020-00855-w.
+[1] Nagpal, Prashant & Agrawal, Mukta & Saboo, Sachin & Hedgire, Sandeep & Priya, Sarv & Steigner, Michael. (2020). Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!. Insights into Imaging. 11. 10.1186/s13244-020-00855-w.  
  
-[2] Anderson RHClinical anatomy of the aortic rootHeart 2000;84:670-673.\   
+[2] Anderson RHClinical anatomy of the aortic rootHeart 2000;84:670-673.  
 
-[3] Heart valve disease. Heart Foundation NZ. (n.d.). https://www.heartfoundation.org.nz/your-heart/heart-conditions/heart-valve-disease\  
+[3] Heart valve disease. Heart Foundation NZ. (n.d.). https://www.heartfoundation.org.nz/your-heart/heart-conditions/heart-valve-disease  
 
 [4] UC Davis Health. (2019, December 2). Transcatheter aortic valve replacement (TAVR) [Video]. YouTube. https://www.youtube.com/watch?v=HKTeAOiByLw  
 
-[5] Ribeiro, Henrique B., John G. Webb, Raj R. Makkar, Mauricio G. Cohen, Samir R. Kapadia, Susheel Kodali, Corrado Tamburino, et al. "Predictive Factors, Management, and Clinical Outcomes of Coronary Obstruction Following Transcatheter Aortic Valve Implantation." Journal of the American College of Cardiology. 62, no. 17 (2013): 1552-62. https://doi.org/10.1016/j.jacc.2013.07.040.\  
+[5] Ribeiro, Henrique B., John G. Webb, Raj R. Makkar, Mauricio G. Cohen, Samir R. Kapadia, Susheel Kodali, Corrado Tamburino, et al. "Predictive Factors, Management, and Clinical Outcomes of Coronary Obstruction Following Transcatheter Aortic Valve Implantation." Journal of the American College of Cardiology. 62, no. 17 (2013): 1552-62. https://doi.org/10.1016/j.jacc.2013.07.040.    
 
 [6] Hellmeier, Florian, Jan Brüning, Simon Sündermann, Lina Jarmatz, Marie Schafstedde, Leonid Goubergrits, Titus Kühne, and Sarah Nordmeyer. "Hemodynamic Modeling of Biological Aortic Valve Replacement Using
-Preoperative Data Only." Frontiers in cardiovascular medicine 7 (2021). https://doi.org/10.3389/fcvm.2020.593709. \   
+Preoperative Data Only." Frontiers in cardiovascular medicine 7 (2021). https://doi.org/10.3389/fcvm.2020.593709.  
 
 [7]
