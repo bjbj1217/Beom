@@ -30,8 +30,9 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
 The geometric properties of the delineated structures such as the annulus, sinotubular junction, and the sinus of Valsalva are all carefully considered in clinical procedures for treating valvular diseases.
 There are two main types structural valvular disease: **Regurgitation and Stenosis**. Figure 2 illustrates the structural mechanisms of the two types. Regurgitation (insufficiency) refers to a condition where the valve does not close completely, leading to a backward 
 flow of blood. Stenosis is a condition where the opening of the valve narrows, hindering the heart's ability to pump blood effectively. The focus of this project and its motivation is aortic stenosis and
-its treatments.
-
+its treatments. The most common treatment options for aortic stenosis include surgical aortic valve replacement (**SAVR**) and transcather aortic valve replacement (**TAVR**). Transcather aortic valve replacement 
+is a non-invasive alternative procedure typically recommended for patients with higher surgical risk level. While SAVR involves an open-heart surgery for the doctor to manually excise and replace the diseased valve with
+a new prosthetic valve, TAVR delivers a Transcatheter Heart Valve (THV) through a catheter that is inserted through a blood vessel (typically femorally). 
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -42,13 +43,13 @@ its treatments.
     </div> 
 </div>
 
-The most common treatment options for aortic stenosis include surgical aortic valve replacement (**SAVR**) and transcather aortic valve replacement (**TAVR**). Transcather aortic valve replacement 
-is a non-invasive alternative procedure typically recommended for patients with higher surgical risk level. While SAVR involves an open-heart surgery for the doctor to manually excise and replace the diseased valve with
-a new prosthetic valve, TAVR delivers a Transcatheter Heart Valve (THV) through a catheter that is inserted through a blood vessel (typically femorally). In both SAVR and TAVR, the clinical pre-procedural planning based on CT images plays a critical role in minimizing 
-the chances of adverse events such as coronary obstruction, which can be critical for patient outcome. Specifically, CT-based clinical measurements of aortic structures like the aortic annulus remains the gold standard for pre-procedural planning of TAVR.
+In both SAVR and TAVR, the clinical pre-procedural planning based on CT images plays a critical role in minimizing the chances of adverse events such as coronary obstruction, which can be critical for patient outcome. 
+Specifically, CT-based clinical measurements of aortic structures like the aortic annulus remains the gold standard for pre-procedural planning of TAVR. 
 More recently, 3D reconstruction of the aortic root has been used for computational fluid dynamics (CFD) simulation of the blood flow through the anatomy to understand the hemodynamics and potentially predict the procedural outcome, 
-showing that patient-specific simulations of the TAVR procedure can be effectively utilized to minimize procedural risks. Both processes of extracting clinical measurements and 3D reconstruction involve the segmentation of the complex aortic root anatomy.
-However, manual segmentation of an individual’s aortic root is a demanding and time-consuming task. Therein lies the motivation behind this project: an automatic method to reconstruct the aortic valve from CT scans.
+showing that patient-specific simulations of the TAVR procedure can be effectively utilized to minimize procedural risks. 
+Both processes of extracting clinical measurements and 3D reconstruction involve the segmentation of the complex aortic root anatomy.
+However, manual segmentation of an individual’s aortic root is a demanding and time-consuming task. 
+Therein lies the goal of this project: an automatic method to reconstruct the aortic valve from CT scans to enable a more efficient pipeline for a pre-procedural planning of aortic stenosis treatment.
 
 
 **Methods**\
