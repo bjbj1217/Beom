@@ -53,7 +53,23 @@ a new prosthetic valve, TAVR delivers a Transcatheter Heart Valve (THV) through 
 In both SAVR and TAVR, the clinical pre-procedural planning based on CT images plays a critical role in minimizing the chances of adverse events such as coronary obstruction, which can be critical for patient outcome. 
 Specifically, CT-based clinical measurements of aortic structures like the aortic annulus remains the gold standard for pre-procedural planning of TAVR. 
 More recently, 3D reconstruction of the aortic root has been used for computational fluid dynamics (CFD) simulation of the blood flow through the anatomy to understand the hemodynamics and potentially predict the procedural outcome, 
-showing that patient-specific simulations of the TAVR procedure can be effectively utilized to minimize procedural risks. 
+showing that patient-specific simulations of the TAVR procedure can be effectively utilized to minimize procedural risks.
+
+<div style="text-align: center;">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <img src="CT_measure.png" alt="Aortic measurements" width="45%" style="margin-right: 10px;"/>
+    </div>
+    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+        <b> Figure 3: Clinical measurements of aortic structures for pre-procedural planning </b> 
+    </div>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <img src="CFD.png" alt="CFD" width="45%" style="margin-right: 10px;"/>
+    </div>
+    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+        <b> Figure 4: Computational fluid dynamics (CFD) simulations predicting TAVR outcomes </b> 
+    </div>
+</div>
+
 Both processes of extracting clinical measurements and 3D reconstruction involve the segmentation of the complex aortic root anatomy.
 However, manual segmentation of an individual’s aortic root is a demanding and time-consuming task. 
 Therein lies the goal of this project: an automatic method to reconstruct the aortic valve from CT scans to enable a more efficient pipeline for a pre-procedural planning of aortic stenosis treatment.
@@ -104,4 +120,7 @@ This method utilizes both the structural information obtained from the aortic la
 [6] Hellmeier, Florian, Jan Brüning, Simon Sündermann, Lina Jarmatz, Marie Schafstedde, Leonid Goubergrits, Titus Kühne, and Sarah Nordmeyer. "Hemodynamic Modeling of Biological Aortic Valve Replacement Using
 Preoperative Data Only." Frontiers in cardiovascular medicine 7 (2021). https://doi.org/10.3389/fcvm.2020.593709.  
 
-[7]
+[7] Blanke, Philipp, Jonathan R. Weir-McCall, Stephan Achenbach, Victoria Delgado, Jörg Hausleiter, Hasan Jilaihawi, Mohamed Marwan, et al. "Computed Tomography Imaging in the Context of Transcatheter Aortic Valve Implantation (Tavi)/Transcatheter Aortic Valve Replacement (Tavr): An Expert Consensus Document of the Society of cardiovascular Computed Tomography." JACC.
+Cardiovascular imaging 12, no. 1 (2019): 1-24. https://doi.org/10.1016/j.jcmg.2018.12.003. 
+
+[8]
