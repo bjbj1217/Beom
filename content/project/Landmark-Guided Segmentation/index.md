@@ -8,7 +8,8 @@ tags:
   - Meshing
 ---
 
-<u>**Objective:**</u>
+## **Objective:**\
+
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 <!--more-->
 
