@@ -45,7 +45,7 @@ The most common treatment options for aortic stenosis include surgical aortic va
 is a non-invasive alternative procedure typically recommended for patients with higher surgical risk level. While SAVR involves an open-heart surgery for the doctor to manually excise and replace the diseased valve with
 a new prosthetic valve, TAVR delivers a Transcatheter Heart Valve (THV) through a catheter that is inserted through a blood vessel (i.e. femoral artery). The following video effectively demonstrates the TAVR procedure.
 
-{{< youtube Jtek8004jAA >}}
+{{< youtube HKTeAOiByLw >}}
 <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
     <b>TAVR Procedure</b> 
 </div> 
@@ -97,7 +97,7 @@ This method utilizes both the structural information obtained from the aortic la
 
 [3] Heart valve disease. Heart Foundation NZ. (n.d.). https://www.heartfoundation.org.nz/your-heart/heart-conditions/heart-valve-disease\  
 
-[4] Nucleus Medical Media. (2020, February 5). Aortic valve stenosis animation – Part 1 – Normal heart anatomy [Video]. YouTube. https://www.youtube.com/watch?v=Jtek8004jAA\   
+[4] UC Davis Health. (2019, December 2). Transcatheter aortic valve replacement (TAVR) [Video]. YouTube. https://www.youtube.com/watch?v=HKTeAOiByLw  
 
 [5] Ribeiro, Henrique B., John G. Webb, Raj R. Makkar, Mauricio G. Cohen, Samir R. Kapadia, Susheel Kodali, Corrado Tamburino, et al. "Predictive Factors, Management, and Clinical Outcomes of Coronary Obstruction Following Transcatheter Aortic Valve Implantation." Journal of the American College of Cardiology. 62, no. 17 (2013): 1552-62. https://doi.org/10.1016/j.jacc.2013.07.040.\  
 
