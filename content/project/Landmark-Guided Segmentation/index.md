@@ -56,17 +56,19 @@ More recently, 3D reconstruction of the aortic root has been used for computatio
 showing that patient-specific simulations of the TAVR procedure can be effectively utilized to minimize procedural risks.
 
 <div style="text-align: center;">
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="CT_measure.png" alt="Aortic measurements" width="45%" style="margin-right: 10px;"/>
-    </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b> Figure 3: Clinical measurements of aortic structures for pre-procedural planning </b> 
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="CFD.png" alt="CFD" width="45%" style="margin-right: 10px;"/>
-    </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b> Figure 4: Computational fluid dynamics (CFD) simulations predicting TAVR outcomes </b> 
+    <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+        <figure style="width: 45%; margin: 0;">
+            <img src="CT_measure.png" alt="Aortic measurements" style="width: 100%;" />
+            <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
+                <b>Figure 3:</b> Clinical measurements of aortic structures for pre-procedural planning
+            </figcaption>
+        </figure>
+        <figure style="width: 45%; margin: 0;">
+            <img src="CFD.png" alt="CFD" style="width: 100%;" />
+            <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
+                <b>Figure 4:</b> Computational fluid dynamics (CFD) simulations predicting TAVR outcomes
+            </figcaption>
+        </figure>
     </div>
 </div>
 
