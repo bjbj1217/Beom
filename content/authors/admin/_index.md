@@ -75,7 +75,7 @@ work:
       Responsibilities include:
       - **Architected** automatic pipelines for reconstructing patient-specific anatomical structures from CT images, replacing the company's reliance on third-party software, resulting in an estimated **$400,000/year** savings in licensing fees, reducing processing time per case by **30%**, and enabling control over data privacy and regulatory compliance in a medical imaging workflow.
       - **Led the development** of a software for automatic clinical measurement extraction from CT scans, navigating the full lifecycle from design to a successful **FDA 510(k) clearance** in collaboration with cross-functional teams.
-      - **Trained, deployed, and maintained** machine learning models using **Pytorch and AWS Sagemaker** for tasks such as 3D landmark detection, 3D image segmentation, and point-cloud clustering as a part of an automated end-to-end pipeline.
+      - **Trained, deployed, and maintained** machine learning models using **Pytorch, AWS Sagemaker, and Scikit-learn** for tasks such as 3D landmark detection, 3D image segmentation, and point-cloud clustering as a part of an automated end-to-end pipeline.
   - position: Data Science Engineer
     company_name: DASI Simulations
     company_url: 'https://dasisim.ai'
