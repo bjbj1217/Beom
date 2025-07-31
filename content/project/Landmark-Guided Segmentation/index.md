@@ -9,7 +9,7 @@ tags:
 ---
 
 <style> 
-.div content {
+page-body {
   max-width: 1400px !important;
 }
 </style>
