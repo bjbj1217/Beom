@@ -92,7 +92,7 @@ The 15 aortic landmarks altogether define the overall structures of aortic valve
 </div>
 
 
-the patient population. 
+
 
 ```markmap {height="200px"}
 - Aortic Components
