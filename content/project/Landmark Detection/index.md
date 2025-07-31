@@ -5,6 +5,10 @@ tags:
   - Landmark Detection
   - Deep Learning
   - Neural Network
+image: 
+  caption: '' 
+  focal_point: ''
+  preview_only: True
 ---
 
 **Objective:**\

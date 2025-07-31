@@ -4,6 +4,10 @@ date: 2024-10-26
 tags:
   - Segmentation
   - Graphical User Interface
+image: 
+  caption: '' 
+  focal_point: ''
+  preview_only: True
 ---
 
 **Objective:**\

@@ -5,6 +5,10 @@ tags:
   - Registration
   - 3D Point-cloud
   - Meshing
+image: 
+  caption: '' 
+  focal_point: ''
+  preview_only: True
 ---
 
 **Objective:**\
