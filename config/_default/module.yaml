@@ -18,7 +18,7 @@ mounts:
     includeFiles: '**.html'
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
-    includeFiles: '**.custom.scss'
+    includeFiles: '**.custom.css'
   - source: layouts
     target: layouts
   - source: assets
