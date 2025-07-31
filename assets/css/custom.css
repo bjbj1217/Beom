@@ -5,3 +5,12 @@
 .hb-toc.w-64 {
   width: 6rem !important; /* 192px */
 }
+
+.featured-image {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
