@@ -6,6 +6,10 @@ tags:
   - Segmentation
   - 3D Point cloud
   - Meshing
+image: 
+  caption: '' 
+  focal_point: ''
+  preview_only: True
 ---
 
 
