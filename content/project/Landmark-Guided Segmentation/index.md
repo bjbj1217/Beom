@@ -57,13 +57,13 @@ showing that patient-specific simulations of the TAVR procedure can be effective
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <figure style="width: 49%; margin: 0;">
+        <figure style="width: 48%; margin: 0;">
             <img src="CT_measure.png" alt="Aortic measurements" style="width: 100%; height: 260px; object-fit: contain; background: #f0f0f0;" />
             <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
                 <b>Figure 3:</b> Clinical measurements of aortic structures for pre-procedural planning
             </figcaption>
         </figure>
-        <figure style="width: 49%; margin: 0;">
+        <figure style="width: 48%; margin: 0;">
             <img src="CFD.png" alt="CFD" style="width: 100%;  height: 260px; object-fit: contain; background: #f0f0f0;" />
             <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
                 <b>Figure 4:</b> Computational fluid dynamics (CFD) simulations predicting TAVR outcomes
