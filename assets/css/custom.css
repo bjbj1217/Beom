@@ -1,3 +1,7 @@
 .hb-sidebar-container .w-64 {
-  width: 12rem !important; /* 192px */
+  width: 4rem !important;
+}
+
+.hb-toc.w-64 {
+  width: 6rem !important; /* 192px */
 }
