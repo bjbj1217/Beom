@@ -1,5 +1,5 @@
-.hb-sidebar-container .w-64 {
-  width: 4rem !important;
+.hb-sidebar-container.w-64 {
+  width: 6rem !important;
 }
 
 .hb-toc.w-64 {
