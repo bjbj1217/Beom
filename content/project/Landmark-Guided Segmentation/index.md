@@ -9,7 +9,7 @@ tags:
 ---
 
 <style>
-.article-container {
+.container {
   max-width: 1400px !important;
 }
 </style>
