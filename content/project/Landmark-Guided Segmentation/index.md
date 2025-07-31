@@ -8,6 +8,12 @@ tags:
   - Meshing
 ---
 
+<style>
+.article-container {
+  max-width: 1400px !important;
+}
+</style>
+
 **Objective:**\
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 <!--more-->
