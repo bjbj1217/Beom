@@ -32,6 +32,7 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
         <b> Figure 1: </b>  Aortic Root Anatomy <br> 
     </div>
 </div>
+<br>
 
 The geometric properties of the delineated structures such as the annulus, sinotubular junction, and the sinus of Valsalva are all carefully considered in clinical procedures for treating valvular diseases.
 There are two main types structural valvular disease: **Regurgitation and Stenosis**. Figure 2 illustrates the structural mechanisms of the two types. Regurgitation (insufficiency) refers to a condition where the valve does not close completely, leading to a backward 
@@ -46,6 +47,7 @@ its treatments.
         <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
     </div> 
 </div>
+<br>
 
 The most common treatment options for aortic stenosis include surgical aortic valve replacement (**SAVR**) and transcather aortic valve replacement (**TAVR** or **TAVI**). Transcather aortic valve replacement 
 is a non-invasive alternative procedure typically recommended for patients with higher surgical risk level. While SAVR involves an open-heart surgery for the doctor to manually excise and replace the diseased valve with
@@ -55,6 +57,7 @@ a new prosthetic valve, TAVR delivers a TAVR-specific prosthetic valve through a
 <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
     <b>TAVR Procedure</b> 
 </div> 
+<br>
 
 In both SAVR and TAVR, the clinical pre-procedural planning based on CT images plays a critical role in minimizing the chances of adverse events such as coronary obstruction, which can be critical for patient outcome. 
 Specifically, CT-based clinical measurements of aortic structures like the aortic annulus remains the gold standard for pre-procedural planning of TAVR. 
@@ -87,7 +90,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="60%" style="margin-right: 10px; height: 280px"/>
+        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="50%" style="margin-right: 10px; height: 300px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 5</b>: Bicuspid Aortic Valve  <br> 
@@ -97,20 +100,21 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 260px"/>
+        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="75%" style="margin-right: 10px; height: 260px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 6</b>: Calcified Aortic Valve  <br> 
     </div> 
 </div>
 <br>
+
 * CT scanner/image quality: depending on the CT scanner type and manufacturer, CT images of aortic valves can be visually distinct. Specifically, scans of patients with metallic objects such as stents can contain artifacts that obscure the view of the valve.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 280px"/>
+        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 7</b>: Example of CT artifact  <br> 
+        <b>Figure 7</b>: Example of CT artifact (arrow) <br> 
     </div> 
 </div>
 <br>
@@ -132,6 +136,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
         <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
     </div> 
 </div>
+<br>
 The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. Figure 2 displays an example of a set of aortic landmarks on a CT scan.
 
 
