@@ -90,7 +90,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="50%" style="margin-right: 10px; height: 300px"/>
+        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="50%" style="margin-right: 10px; height: 350px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 5</b>: Bicuspid Aortic Valve  <br> 
