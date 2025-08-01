@@ -9,7 +9,7 @@ tags:
 image: 
   caption: '' 
   focal_point: ''
-  preview_only: True
+  preview_only: True 
 ---
 
 
@@ -34,7 +34,7 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
 
 The geometric properties of the delineated structures such as the annulus, sinotubular junction, and the sinus of Valsalva are all carefully considered in clinical procedures for treating valvular diseases.
 There are two main types structural valvular disease: **Regurgitation and Stenosis**. Figure 2 illustrates the structural mechanisms of the two types. Regurgitation (insufficiency) refers to a condition where the valve does not close completely, leading to a backward 
-flow of blood. Stenosis is a condition where the opening of the valve narrows, hindering the heart's ability to pump blood effectively. The focus of this project and its motivation is aortic stenosis and
+flow of blood. Stenosis is a condition where the opening of the valve narrows typically as the aortic leaflet thickens and/or becomes calcified, hindering the heart's ability to pump blood effectively. The focus of this project and its motivation is aortic stenosis and
 its treatments.
 
 <div style="text-align: center;">
@@ -79,22 +79,33 @@ showing that patient-specific simulations of the TAVR procedure can be effective
 
 Both processes of extracting clinical measurements and 3D reconstruction involve the segmentation of the complex aortic root anatomy.
 However, manual segmentation of an individual’s aortic root is a demanding and time-consuming task. 
-Therein lies the goal of this project: an automatic method to reconstruct the aortic valve from CT scans to enable a more efficient pipeline for a pre-procedural planning of aortic stenosis treatment.
-
+Therein lies the goal of this project: **an automatic method to reconstruct the aortic valve from CT scans to enable a more efficient pipeline for a pre-procedural planning of aortic stenosis treatment.**
 
 **Methods**\
-Given the complex structure of the aortic leaflets, the segmentation algorithm must be designed to account for the vast phenotypic heterogeneity that exists in
+In CT images, aortic leaflets can look vastly different from one another due to anatomical and acquisition variability:  
+* Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
+* Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
+* CT scanner/image quality: depending on the CT scanner type and manufacturer, CT images of aortic valves can be visually distinct. Specifically, scans of patients with metallic objects such as stents can contain artifacts that obscure the view of the valve.
 
-The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. Figure 2 displays an example of a set of aortic landmarks on a CT scan.
+An effective segmentation algorithm must account for such vast heterogeneity to robustly generalize across different populations. One could potentially  
+train or finetune a deep learning model to segment the aortic valve end-to-end from CT images. However, as is with many medical applications, data (especially image data) are expensive. 
+Furthermore, the vast variability in the patient population would need to be reflected in the dataset for the method to be robust. In such cases, incorporating domain knowledge and breaking up the task
+as smaller tasks can be effective. One way to simplify this task is to utilize the structural consistency of the aortic valve. Despite the variability within the finer details
+of the leaflets' phenotype (thickness, calcification, etc.), leaflets can be generalized using common landmarks to form a generalized structure. Figure 5 displays a surface representation
+of an aortic valve that is constructed from 7 landmarks: 4 commissural points that define the connection between the leaflet and the aortic root wall, 1 center point that determines the coaptation point
+of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1 hinge point that determines the nethermost point of the leaflet. 
+
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px;"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 3: Aortic Landmarks</b> <br>  CP: Commissural points, C: Center point, L: Leaflet points, H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
+        <b>Figure 5: Aortic Landmarks</b> <br>  CP: Commissural points, C: Center point, L: Leaflet points, H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
     </div> 
 </div>
+The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. Figure 2 displays an example of a set of aortic landmarks on a CT scan.
+
 
 
 
