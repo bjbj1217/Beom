@@ -25,10 +25,10 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;  height: 300px"/>
-        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="height: 300px"/>
+        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;  height: 320px"/>
+        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="height: 320px"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b> Figure 1: </b>  Aortic Root Anatomy <br> 
     </div>
 </div>
@@ -41,9 +41,9 @@ its treatments.
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="margin-right: 10px;"/>
+        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="60%" style="margin-right: 10px; height: 260px"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
     </div> 
 </div>
@@ -90,9 +90,9 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="50%" style="margin-right: 10px; height: 350px"/>
+        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px; height: 350px"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b>Figure 5</b>: Bicuspid Aortic Valve  <br> 
     </div> 
 </div>
@@ -102,7 +102,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <img src="calcified.jpg" alt="Aortic Root Anatomy" width="75%" style="margin-right: 10px; height: 260px"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b>Figure 6</b>: Calcified Aortic Valve  <br> 
     </div> 
 </div>
@@ -113,7 +113,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px; height: 280px"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b>Figure 7</b>: Example of CT artifact (arrow) <br> 
     </div> 
 </div>
@@ -132,7 +132,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px;"/>
     </div>
-    <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+    <div style="font-size: 0.85em; color: #999;">
         <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
     </div> 
 </div>
