@@ -87,32 +87,33 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="60%" style="margin-right: 10px; height: 260px"/>
+        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="60%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 5: Bicuspid Aortic Valve </b> <br> 
     </div> 
 </div>
+<br>
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px; height: 260px"/>
+        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 260px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 6: Calcified Aortic Valve </b> <br> 
     </div> 
 </div>
-
+<br>
 * CT scanner/image quality: depending on the CT scanner type and manufacturer, CT images of aortic valves can be visually distinct. Specifically, scans of patients with metallic objects such as stents can contain artifacts that obscure the view of the valve.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px; height: 260px"/>
+        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
         <b>Figure 7: Example of CT artifact </b> <br> 
     </div> 
 </div>
-
+<br>
 
 An effective segmentation algorithm must account for such vast heterogeneity to robustly generalize across different populations. One could potentially  
 train or finetune a deep learning model to segment the aortic valve end-to-end from CT images. However, as is with many medical applications, data (especially image data) are expensive. 
