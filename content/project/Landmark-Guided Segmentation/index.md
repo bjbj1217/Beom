@@ -17,7 +17,7 @@ image:
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 <!--more-->
 
-**Clinical Background**\
+**<ins>Clinical Background<ins>**\
 Typically presenting as a tri-leaflet structure, the aortic valve is a unidirectional valve located in the aortic root, the section of the aorta (the largest artery in the human body) that attaches to the heart.
 The aortic root consists of multiple structural components that function together to maintain the body's optimal blood flow. 
 You can appreciate the complex anatomy of the root in Figure 1, where the schematic (left) delineates the main structures of root alongside an actual photo of the anatomy (right). 
@@ -81,7 +81,7 @@ Both processes of extracting clinical measurements and 3D reconstruction involve
 However, manual segmentation of an individual’s aortic root is a demanding and time-consuming task. 
 Therein lies the goal of this project: **an automatic method to reconstruct the aortic valve from CT scans to enable a more efficient pipeline for a pre-procedural planning of aortic stenosis treatment.**
 
-**Methods**\
+**<ins>Methods<ins>**\
 In CT images, aortic leaflets can look vastly different from one another due to anatomical and acquisition variability:  
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
@@ -118,13 +118,13 @@ The 15 aortic landmarks altogether define the overall structures of aortic valve
 ```
 
 
-**Result**\
+**<ins>Result<ins>**\
 A pipeline involving a landmark detection module and a point cloud registration module is developed. 
 
-**Discussion**\
+**<ins>Discussion<ins>**\
 This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex anatomy of the aortic valve. 
 
-**References**\
+**<ins>References<ins>**\
 [1] Nagpal, Prashant & Agrawal, Mukta & Saboo, Sachin & Hedgire, Sandeep & Priya, Sarv & Steigner, Michael. (2020). Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!. Insights into Imaging. 11. 10.1186/s13244-020-00855-w.  
  
 [2] Anderson RHClinical anatomy of the aortic rootHeart 2000;84:670-673.  
