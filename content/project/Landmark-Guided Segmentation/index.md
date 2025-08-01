@@ -29,7 +29,7 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
         <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="height: 300px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b> Figure 1: Aortic Root Anatomy </b> <br> 
+        <b> Figure 1: </b>  Aortic Root Anatomy <br> 
     </div>
 </div>
 
@@ -43,7 +43,7 @@ its treatments.
         <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="margin-right: 10px;"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 2: Valvular Disease: Stenosis and Regurgitation</b> 
+        <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
     </div> 
 </div>
 
@@ -90,7 +90,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
         <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="60%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 5: Bicuspid Aortic Valve </b> <br> 
+        <b>Figure 5</b>: Bicuspid Aortic Valve  <br> 
     </div> 
 </div>
 <br>
@@ -100,7 +100,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
         <img src="calcified.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 260px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 6: Calcified Aortic Valve </b> <br> 
+        <b>Figure 6</b>: Calcified Aortic Valve  <br> 
     </div> 
 </div>
 <br>
@@ -110,7 +110,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
         <img src="artifact.jpg" alt="Aortic Root Anatomy" width="70%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 7: Example of CT artifact </b> <br> 
+        <b>Figure 7</b>: Example of CT artifact  <br> 
     </div> 
 </div>
 <br>
@@ -129,7 +129,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
         <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px;"/>
     </div>
     <div style="margin-top: 1px; font-size: 0.90em; color: #999;">
-        <b>Figure 8: Aortic Landmarks</b> <br>  CP: Commissural points, C: Center point, L: Leaflet points, H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
+        <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
     </div> 
 </div>
 The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. Figure 2 displays an example of a set of aortic landmarks on a CT scan.
