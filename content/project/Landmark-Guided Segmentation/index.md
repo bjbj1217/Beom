@@ -41,7 +41,7 @@ its treatments.
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="60%" style="margin-right: 10px; height: 260px"/>
+        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="margin-right: 10px; height: 280px"/>
     </div>
     <div style="font-size: 0.85em; color: #999;">
         <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
@@ -97,6 +97,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
     </div> 
 </div>
 <br>
+
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
