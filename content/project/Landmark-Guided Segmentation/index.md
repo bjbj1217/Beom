@@ -40,10 +40,10 @@ flow of blood. Stenosis is a condition where the opening of the valve narrows ty
 its treatments.
 
 <div style="text-align: center;">
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="margin-right: 10px; height: 280px"/>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
+        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="height: 280px; margin: 0;" />
     </div>
-    <div style="font-size: 0.85em; color: #999;">
+    <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
     </div> 
 </div>
@@ -138,25 +138,23 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
     </div> 
 </div>
 <br>
-The 15 aortic landmarks altogether define the overall structures of aortic valve leaflets. Figure 2 displays an example of a set of aortic landmarks on a CT scan.
 
 
 
-
-
-```markmap {height="200px"}
-- Aortic Components
-  - Aortic Leaflets
-  - Calcium Nodules
-  - Aortic Root Wall
-```
-
+<br>
 
 **<ins>Result<ins>**\
 A pipeline involving a landmark detection module and a point cloud registration module is developed. 
 
+<br>
+
 **<ins>Discussion<ins>**\
 This method utilizes both the structural information obtained from the aortic landmarks and the intensity signal from the CT images to robustly segment the complex anatomy of the aortic valve. 
+
+
+<br>
+<br>
+<br>
 
 **<ins>References<ins>**\
 [1] Nagpal, Prashant & Agrawal, Mukta & Saboo, Sachin & Hedgire, Sandeep & Priya, Sarv & Steigner, Michael. (2020). Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!. Insights into Imaging. 11. 10.1186/s13244-020-00855-w.  
