@@ -12,8 +12,6 @@ image:
   placement: 3
   preview_only: False 
 ---
-
-
 **Objective:** \
 Develop a robust segmentation algorithm to create an accurate reconstruction of aortic valve using cardiac Computed Tomography (CT) scans
 <!--more-->
@@ -55,7 +53,7 @@ is a non-invasive alternative procedure typically recommended for patients with 
 a new prosthetic valve, TAVR delivers a TAVR-specific prosthetic valve through a catheter that is inserted through a blood vessel (i.e. femoral artery). The following video effectively demonstrates the TAVR procedure.
 
 {{< youtube HKTeAOiByLw >}}
-<div style="margin-top: 1px; font-size: 0.90em; color: #999;">
+<div style="margin-top: 1px; font-size: 0.90em; color: #999; text-align: center;">
     <b>TAVR Procedure</b> 
 </div> 
 <br>
