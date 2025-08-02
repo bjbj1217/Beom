@@ -131,7 +131,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin: 0;"/>
+        <img src="landmarks.png" alt="Aortic Root Anatomy" width="70%" style="margin: 0;  height: 350px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
