@@ -25,8 +25,8 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px;  height: 320px"/>
-        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="height: 320px"/>
+        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin: 0; height: 320px; "/>
+        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="margin: 0; height: 320px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b> Figure 1: </b>  Aortic Root Anatomy <br> 
@@ -90,7 +90,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Leaflet fusion: leaflets of some individuals are fused together as one (uni-cuspid) or two (bicuspid) leaflets, leading to a diminished valve function.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="45%" style="margin-right: 10px; height: 350px"/>
+        <img src="bicuspid.jpg" alt="Aortic Root Anatomy" width="45%" style="margin: 0; height: 360px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 5</b>: Bicuspid Aortic Valve  <br> 
@@ -101,7 +101,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="75%" style="margin-right: 10px; height: 260px"/>
+        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="75%" style="margin: 0; height: 260px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 6</b>: Calcified Aortic Valve  <br> 
@@ -112,7 +112,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * CT scanner/image quality: depending on the CT scanner type and manufacturer, CT images of aortic valves can be visually distinct. Specifically, scans of patients with metallic objects such as stents can contain artifacts that obscure the view of the valve.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px; height: 280px"/>
+        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin: 0; height: 280px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 7</b>: Example of CT artifact (arrow) <br> 
@@ -131,7 +131,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin-right: 10px;"/>
+        <img src="landmarks.png" alt="Aortic Root Anatomy" width="65%" style="margin: 0;"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
