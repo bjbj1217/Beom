@@ -66,13 +66,13 @@ showing that patient-specific simulations of the TAVR procedure can be effective
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <figure style="width: 48%; margin: 0;">
-            <img src="CT_measure.png" alt="Aortic measurements" style="width: 100%; height: 260px; object-fit: contain; background: #f0f0f0;" />
+            <img src="CT_measure.png" alt="Aortic measurements" style="width: 100%; height: 270px; object-fit: contain; background: #f0f0f0;" />
             <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
                 <b>Figure 3:</b> Clinical measurements of aortic structures for pre-procedural planning
             </figcaption>
         </figure>
         <figure style="width: 48%; margin: 0;">
-            <img src="CFD.png" alt="CFD" style="width: 100%;  height: 260px; object-fit: contain; background: #f0f0f0;" />
+            <img src="CFD.png" alt="CFD" style="width: 100%;  height: 270px; object-fit: contain; background: #f0f0f0;" />
             <figcaption style="margin-top: 4px; font-size: 0.85em; color: #999;">
                 <b>Figure 4:</b> Computational fluid dynamics (CFD) simulations predicting TAVR outcomes
             </figcaption>
@@ -151,14 +151,16 @@ Figure 9 displays all the aortic landmarks on top of a CT image.
 </div>
 <br>
 
-Although the surface representation built on the aortic landmarks can be utilized to estimate overall structure of the valve, the phenotypic details 
-of the leaflets must also be captured to segment the most accurate 3D representation. 
+While the surface representation built on the aortic landmarks can be utilized to estimate overall structure of the valve, the phenotypic details 
+of the leaflets must also be captured to segment the most accurate 3D representation. For this, we must rely on the available image signal in the CT scan. 
+This article will deal with the fusion of the structural information obtained by the aortic landmarks and the variable anatomical information obtained from the CT image features.
+Please refer to  [Landmark Detection]({{< relref "Landmark Detection/index.md" >}}) for details on the implementation of the aortic landmark detection based on CT scans.
+
 
 
 <br>
 
 ### **Result**
-A pipeline involving a landmark detection module and a point cloud registration module is developed. 
 
 <br>
 
