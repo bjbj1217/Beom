@@ -130,14 +130,13 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="aortic_model.png" alt="Aortic Root Anatomy" width="70%" style="margin: 0;  height: 350px"/>
+        <img src="aortic_model.png" alt="Aortic Root Anatomy" width="85%" style="margin: 0;  height: 370px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
-        <b>Figure 8:</b> Generalized aortic leaflet model  
+        <b>Figure 8:</b> Aortic Surface Model <br> (left: surface representation, right: 3D Segmentation)  
     </div> 
 </div>
 <br>
-
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
