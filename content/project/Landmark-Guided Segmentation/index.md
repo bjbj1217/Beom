@@ -130,13 +130,17 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="aortic_model.png" alt="Aortic Root Anatomy" width="85%" style="margin: 0;  height: 370px"/>
+        <img src="aortic_model.png" alt="Aortic Root Anatomy" width="90%" style="margin: 0;  height: 370px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 8:</b> Aortic Surface Model <br> (left: surface representation, right: 3D Segmentation)  
     </div> 
 </div>
 <br>
+
+With each leaflet sharing a set of upper and lower commissural points, there are 13 points for a normal tricuspid aortic valve. Since the typical valve structure is 
+axially symmetric, another set of 2 points: left and right coronary ostia can serve to orient the aortic landmarks, bringing the total number of points to 15. 
+Figure 9 displays all the aortic landmarks on top of a CT image.
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
@@ -148,6 +152,8 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
 </div>
 <br>
 
+Although the surface representation built on the aortic landmarks can be utilized to estimate overall structure of the valve, the phenotypic details 
+of the leaflets must also be captured to segment the most accurate 3D representation. 
 
 
 <br>
