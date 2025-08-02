@@ -9,7 +9,8 @@ tags:
 image: 
   caption: '' 
   focal_point: ''
-  preview_only: True 
+  placement: 3
+  preview_only: False 
 ---
 
 
