@@ -124,9 +124,19 @@ An effective segmentation algorithm must account for such vast heterogeneity to 
 train or finetune a deep learning model to segment the aortic valve end-to-end from CT images. However, as is with many medical applications, data (especially image data) are expensive. 
 Furthermore, the vast variability in the patient population would need to be reflected in the dataset for the method to be robust. In such cases, incorporating domain knowledge and breaking up the task
 as smaller tasks can be effective. One way to simplify this task is to utilize the structural consistency of the aortic valve. Despite the variability within the finer details
-of the leaflets' phenotype (thickness, calcification, etc.), leaflets can be generalized using common landmarks to form a generalized structure. Figure 8 displays a surface representation
-of an aortic valve that is constructed from 7 landmarks: 4 commissural points that define the connection between the leaflet and the aortic root wall, 1 center point that determines the coaptation point
+of the leaflets' phenotype (thickness, calcification, etc.), leaflets can be generalized using common landmarks to form a generalized structure. Figure 8 displays a generalized surface representation
+of an aortic valve that is constructed from 7 landmarks: 4 commissural points (2 upper and 2 lower) that define the connection between the leaflet and the aortic root wall, 1 center point that determines the coaptation point
 of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1 hinge point that determines the nethermost point of the leaflet. 
+
+<div style="text-align: center;">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
+        <img src="aortic_model.png" alt="Aortic Root Anatomy" width="70%" style="margin: 0;  height: 350px"/>
+    </div>
+    <div style="font-size: 0.85em; color: #999; margin-top: 0;">
+        <b>Figure 8:</b> Generalized aortic leaflet model  
+    </div> 
+</div>
+<br>
 
 
 <div style="text-align: center;">
@@ -134,7 +144,7 @@ of the three leaflets, 1 leaflet point at the belly region of the leaflet, and 1
         <img src="landmarks.png" alt="Aortic Root Anatomy" width="70%" style="margin: 0;  height: 350px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
-        <b>Figure 8:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
+        <b>Figure 9:</b> Aortic Landmarks <br>  CP: Commissural points, C: Center point, L: Leaflet points, <br> H: Hinge points, LCO: Left coronary ostium, RCO: Right coronary ostium <br> 
     </div> 
 </div>
 <br>
