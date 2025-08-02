@@ -24,8 +24,8 @@ You can appreciate the complex anatomy of the root in Figure 1, where the schema
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin: 0; height: 320px; "/>
-        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="margin: 0; height: 320px"/>
+        <img src="aortic_anatomy.png" alt="Aortic Root Anatomy" width="45%" style="margin: 0; height: 330px; "/>
+        <img src="aortic_photo.png" alt="Aortic Root Anatomy [1-2]" width="45%" style="margin: 0; height: 330px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b> Figure 1: </b>  Aortic Root Anatomy <br> 
@@ -40,7 +40,7 @@ its treatments.
 
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="height: 280px; margin: 0;" />
+        <img src="stenosis-regurgitation.jpg" alt="Valvular Disease" width="65%" style="height: 300px; margin: 0;" />
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 2:</b> Valvular Disease: Stenosis and Regurgitation 
@@ -100,7 +100,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * Calcification: the severity of leaflet calcification can vary drastically. The spatial distribution and densities of calcium nodules play a crucial role in determining valve functions and TAVR planning.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="80%" style="margin: 0; height: 260px"/>
+        <img src="calcified.jpg" alt="Aortic Root Anatomy" width="85%" style="margin: 0; height: 260px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 6</b>: Calcified Aortic Valve  <br> 
@@ -111,7 +111,7 @@ In CT images, aortic leaflets can look vastly different from one another due to 
 * CT scanner/image quality: depending on the CT scanner type and manufacturer, CT images of aortic valves can be visually distinct. Specifically, scans of patients with metallic objects such as stents can contain artifacts that obscure the view of the valve.
 <div style="text-align: center;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 4px;">
-        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin: 0; height: 300px"/>
+        <img src="artifact.jpg" alt="Aortic Root Anatomy" width="65%" style="margin: 0; height: 320px"/>
     </div>
     <div style="font-size: 0.85em; color: #999; margin-top: 0;">
         <b>Figure 7</b>: Example of CT artifact (arrow) <br> 
