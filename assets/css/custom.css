@@ -6,3 +6,6 @@
   width: 12rem !important; /* 192px */
 }
 
+.prose {
+  text-align: justify;
+}
