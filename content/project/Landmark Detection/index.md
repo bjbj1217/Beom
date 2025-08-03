@@ -8,29 +8,34 @@ tags:
 image: 
   caption: '' 
   focal_point: ''
-  preview_only: True
+  placement: 3
+  preview_only: False
 ---
 
 **Objective:**\
 Train and validate a detection model to regress the coordinates of fifteen aortic landmarks from cardiac Computed Tomography (CT) scans
 <!--more-->
 
-**Background**\
-Please refer to [Landmark-guided Segmentation]({{< relref "Landmark-Guided Segmentation/index.md" >}}) for the overall motivation and the physiological background behind this work. \
-There exist several distinct architectures for landmark detection task. 
+### **Background**
+Please refer to [Landmark-guided Segmentation]({{< relref "Landmark-Guided Segmentation/index.md" >}}) for the overall motivation and the physiological background behind this work.
+<br>
+There exist several distinct architectures for landmark detection tasks. 
 
 
-**Methods**\
+### **Methods**
 ..
 
-**Result**\
+### **Result**
 ..
 
-**Discussion**\
+### **Discussion**
 ..
 
-**References**\
+### **References**
 ..
 
-**References**\
+### **References**
+
+
+
  
